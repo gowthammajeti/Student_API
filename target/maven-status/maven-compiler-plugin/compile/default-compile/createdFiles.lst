@@ -1,0 +1,6 @@
+org/example/student_api/StudentApiApplication.class
+org/example/student_api/model/Student.class
+org/example/student_api/repository/StudentRepository.class
+org/example/student_api/controller/StudentController.class
+org/example/student_api/service/StudentService.class
+org/example/student_api/service/StudentServiceImpl.class
